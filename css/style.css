@@ -1,0 +1,15 @@
+div {
+    width: 100px;  
+    height: 100px;
+    background-color: #fea500; 
+    margin: 5px;
+}
+
+body {
+    background-color: grey; 
+
+}
+
+h1 {
+    color: white;
+}
